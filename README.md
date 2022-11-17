@@ -3,4 +3,4 @@
 **My Favorite Tanks**
 - SU-122
 - SU-5-1
-- PT-57
+- SU-76
